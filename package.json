@@ -1,0 +1,20 @@
+{
+  "version": "0.0.0",
+  "name": "@kmamal/indentation",
+  "description": "indentation",
+  "scripts": {
+    "test": "npx -p @kmamal/testing testing",
+    "update-exports": "node ./scripts/update-exports.mjs"
+  },
+  "devDependencies": {
+    "@kmamal/testing": "^0.0.30"
+  },
+  "dependencies": {
+    "@kmamal/util": "^0.2.18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:kmamal/indentation.git"
+  }
+}
