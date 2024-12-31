@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "name": "@kmamal/indentation",
   "description": "indentation",
   "repository": {
@@ -16,5 +16,8 @@
   },
   "devDependencies": {
     "@kmamal/testing": "^0.0.30"
+  },
+  "exports": {
+    ".": "./src/index.js"
   }
 }

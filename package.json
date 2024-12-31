@@ -18,6 +18,6 @@
     "@kmamal/testing": "^0.0.30"
   },
   "exports": {
-    ".": "./src/index.js"
+    "./unindent": "./src/unindent.js"
   }
 }
